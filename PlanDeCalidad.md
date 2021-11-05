@@ -30,3 +30,5 @@ Se va a probar que se de alta correctamente una lista de espera, que el profesor
 No vamos a probar lo que ya se estaba usando correctamenete en la versión 1 del sistema de inscripciones, por ejemplo, el login, la tira de materias, que al registrarte exitosamente te muestre tu horario al final, etc.
 
 ## 8) Approach 
+Se va a probar mediante librerías las funciones relacionadas a los alumnos y profesores directamente involucrados, es decir, los que hacen peticiones, aceptan o rechazan listas de espera. Por otro lado, se probará de forma manual que los otros usuarios no reciban notificaciones que no le corresponden, y hacer una prueba en general del sistema para ver si hay algún tipo de fallo no identificado. 
+
