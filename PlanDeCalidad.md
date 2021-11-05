@@ -1,14 +1,11 @@
 # IEEE TEST PLAN TEMPLATE
 
 ## 1) Test Plan Identifier 
-## 2) References
-### -Lista de requerimientos
-### -Casos de uso
+## 2) References 
 ## 3) Introduction 
 ## 5) Software Risk Issues 
-### -Software a probar será el sistema de inscripciones
-### -Específicamente, la funcionalidad de la lista de espera
-### -Las pruebas dependerán de que la funcionalidad esté en su última versión
 ## 6) Features to be Tested 
+Se va a probar que se de alta correctamente una lista de espera, que el profesor pueda visualizar todas las listas de espera por materia, que pueda aceptar o rechazar las listas de espera, que al alumno se le notifique cuando se aceptó o rechazó su lista de espera. 
+
 ## 7) Features not to be Tested 
 ## 8) Approach 
