@@ -1,6 +1,9 @@
 # IEEE TEST PLAN TEMPLATE
 
 ## 1) Test Plan Identifier 
+```plan_01```
+Fecha: 05/11/2021
+
 ## 2) References 
 Usaremos el plan de requermientos para saber que se buscaba lograr con la funcionalidad de la lista de espera. Tambien usaremos la documentación del codigo para entender la forma en que fue implementado. Será importante ver los casos de uso para identificar el tipo de pruebas que se harán para ver el funcionamiento de la funcionalidad. 
 
