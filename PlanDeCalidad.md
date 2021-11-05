@@ -18,4 +18,6 @@ El proceso de pruebas se describe a continuación.
 Se va a probar que se de alta correctamente una lista de espera, que el profesor pueda visualizar todas las listas de espera por materia, que pueda aceptar o rechazar las listas de espera, que al alumno se le notifique cuando se aceptó o rechazó su lista de espera. 
 
 ## 7) Features not to be Tested 
+No vamos a probar lo que ya se estaba usando correctamenete en la versión 1 del sistema de inscripciones, por ejemplo, el login, la tira de materias, que al registrarte exitosamente te muestre tu horario al final, etc.
+
 ## 8) Approach 
