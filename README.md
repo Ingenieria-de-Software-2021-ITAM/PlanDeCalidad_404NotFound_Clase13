@@ -7,5 +7,3 @@ Integrantes del equipo:
 * Alexis Sánchez
 * Carlos Delgado
 * Alberto Márquez
-
-Hola
